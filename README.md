@@ -66,12 +66,12 @@ Temporal dynamics of K13 622I prevalence, RDT negativity, case counts, rainfall,
 ## Data Sources
 All necessary input files are stored in /data/ and include:
 
-Unique molecular identifying PCR-amplification bias corrected genotyping tables from MIPTools
-Sample Metadata
-Complexity of infection (COI) estimates
-Identity-by-descent (IBD) estimates
-Rainfall and case surveillance data
-Mapping file (geojson at country and woredas(district) level)
+* Unique molecular identifying PCR-amplification bias corrected genotyping tables from MIPTools
+* Sample Metadata
+* Complexity of infection (COI) estimates
+* Identity-by-descent (IBD) estimates
+* Rainfall and case surveillance data
+* Mapping file (geojson at country and woredas(district) level)
 
 You will need to adjust file paths in the scripts to reflect your local installation.
 
