@@ -2,6 +2,7 @@ This repository contains all data and code used to generate the analyses and fig
 
 **“Rising widespread Kelch13 R622I and Detection of C580Y of African origin in *Plasmodium falciparum* in northern Ethiopia further threaten artemisinin-based therapies.”**
 
+Will add preprint author list here when uploaded and ultimately the citation to peer reviewed paper
 ---
 
 ## Repository Structure
@@ -74,7 +75,7 @@ All necessary input files are stored in /data/ and include:
 You will need to adjust file paths in the scripts to reflect your local installation.
 
 ## Citation
-If using this repository or its outputs, please cite:
+If using this repository or its outputs, please cite: Will add preprint citation here when uploaded and ultimately the citation to peer reviewed paper
 
 ## Contact
 For questions about the codebase or contributions, contact the corresponding authors in the linked published mansucript.
