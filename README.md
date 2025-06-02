@@ -1,7 +1,4 @@
-Rising widespread Kelch13 R622I and detection of C580Y of African origin in *Plasmodium falciparum* in northern Ethiopia further threaten artemisinin-based therapies
-
 This repository contains all data and code used to generate the analyses and figures presented in the manuscript:
-
 **“Rising widespread Kelch13 R622I and Detection of C580Y of African origin in *Plasmodium falciparum* in northern Ethiopia further threaten artemisinin-based therapies.”**
 
 ---
