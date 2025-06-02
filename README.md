@@ -51,7 +51,7 @@ pip install numpy==1.24.4 pandas==1.5.3 matplotlib==3.7.1 seaborn==0.12.2 scipy=
 Geographic and statistical summary of K13 622I mutation prevalence and pfhrp2-based RDT negativity across districts, kebeles, and RDT result categories in Northwest Ethiopia.
 
 **Figure 2:**  
-Flanking haplotype comparison shows similarity between Ethiopian and Southeast Asian K13 C580Y mutants, highlighting potential shared ancestry or convergent evolution.
+Flanking haplotype comparison shows similarity between Ethiopian and Southeast Asian K13 C580Y mutants, highlighting convergent evolution of C580Y on distinct genetic backgrounds.
 
 **Figure 3:**  
 Upset plots display combinations of K13 622I with _mdr1_ and _crt_ resistance mutations in monoclonal P. falciparum isolates from Ethiopia.
